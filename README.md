@@ -1,3 +1,1 @@
-Fullstack developer with experience in JavaScript, TypeScript, React, NestJS, PostgreSQL and TypeORM. Passionate about the backend, especially security
-accounts (JWT, RBAC, bcrypt, passport, OAuth2) and constantly learning. Looking for opportunities to contribute my skills in innovative projects and continue
-growing professionally.
+Fullstack developer with experience in JavaScript, TypeScript, React, NestJS, PostgreSQL and TypeORM. Passionate about backend, especially account security (JWT, RBAC, bcrypt, passport, OAuth2) and constantly learning. I am looking for opportunities to contribute with my skills in innovative projects and keep growing professionally.
