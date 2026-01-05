@@ -1,1 +1,5 @@
-Full Stack Developer with experience in Next.js, NestJS, TypeScript, Ruby on Rails, and PostgreSQL. Passionate about backend development and account security, including JWT, OAuth2, and RBAC, Devise, Next-Auth. I have worked on building complete eCommerce platforms and web applications. I am looking to contribute to innovative projects where I can apply my knowledge and continue to grow professionally. From Bahía Blanca, Buenos Aires, Argentina
+Full Stack Developer with hands-on experience building production systems for government institutions and real-world products.
+Worked on IPS RUPA (Argentina’s social security registry), developing and deploying scalable services with Django, PostgreSQL and Kubernetes (OKD/OpenShift),
+handling large datasets and secure authentication with Keycloak.
+Built DocSync, a production-ready HealthTech MVP in Ruby on Rails, featuring role-based access, Stripe payments, real-time chat and automated notifications.
+Strong focus on clean code, scalability, security and continuous improvement. English B1 (actively improving).
