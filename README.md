@@ -1,5 +1,1 @@
-Full Stack Developer with hands-on experience building production systems for government institutions and real-world products.
-Worked on IPS RUPA (Argentina’s social security registry), developing and deploying scalable services with Django, PostgreSQL and Kubernetes (OKD/OpenShift),
-handling large datasets and secure authentication with Keycloak.
-Built DocSync, a production-ready HealthTech MVP in Ruby on Rails, featuring role-based access control, Stripe payments, real-time chat and automated notifications.
-Strong focus on clean code, scalability, security and continuous improvement. English B1 (actively improving).
+Full Stack Developer with experience in mission-critical production systems. I was the sole developer in charge of IPS RUPA, a provincial government platform (Django + Next.js + PostgreSQL) with millions of records of members, employers, and salaries. I managed all stages: REST API, frontend migration, adaptation to an unchangeable legacy schema (Adabas D → PostgreSQL), integration of over 90 GB of data with Celery and Streaming, and deployment on Kubernetes (OKD/OpenShift) coordinated with DevOps. In parallel, I developed DocSync , a clinic management SaaS built on Rails 8, React Native, Stripe, and the Claude API. Strong background in clean code, security, and continuous delivery.
